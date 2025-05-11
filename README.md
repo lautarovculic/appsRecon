@@ -41,11 +41,11 @@ python3 server.py
 ### Output (on server)
 
 The Flask server will:
-	- Print all received packages.
-	- Color system apps in green, user-installed in red.
-	- Save results to:
-		- `<device_id>_defaultApps.txt`
-		- `<device_id>_installedApps.txt`
+- Print all received packages.
+- Color system apps in green, user-installed in red.
+- Save results to:
+   - `<device_id>_defaultApps.txt`
+   - `<device_id>_installedApps.txt`
 
 ## Example Payload
 
